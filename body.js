@@ -1,3 +1,6 @@
+/*
+ * Author: Tatsuya Yamamoto
+ */
 (function(){
   if ( String.prototype.mstrbyte ) return;
   String.prototype.mstrbyte = function(){
